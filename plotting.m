@@ -13,7 +13,6 @@ t0=0:(T_p*(T_f-1));
 t=0:(T_p*(T_f));
   
   
-figure(12)
 subplot(4,1,1),plotflows(t,j,x_1)
 grid on
 ylabel('$\hat{x}_1$','interpreter','latex')
