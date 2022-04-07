@@ -1,4 +1,4 @@
-# HybridMPCMLDBouncingBall
+# HybridMPC-MLDBouncingBall
 
 
 To run simulations:
